@@ -1,6 +1,9 @@
 TodoREST
 ========
 
+EJEMPLO que usa un webservice en php en la pagina koziuko.com/ws
+
+
 This sample demonstrates a Todo list application where the data is stored and accessed from a RESTful web service. The web service is hosted by Xamarin and provides read-only access to the data. Therefore, the operations that create, update, and delete data will not alter the data consumed in the application. However, a hostable version of the REST service that provides read-write access to the data is stored in the *TodoRESTService* folder.
 
 The app functionality is:
